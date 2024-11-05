@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615106312330",
+    "project_id": "act12-a77a4",
+    "storage_bucket": "act12-a77a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615106312330:android:114ad41db0798e10151573",
+        "android_client_info": {
+          "package_name": "com.act12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvYpJTiRHOmRX7jMdegDQGCkv4vkPPewE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
